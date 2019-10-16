@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.db
+*.xml
+.DS_Store
+.coverage
+.idea
+/static
+/media
+**/migrations/*
+**/media/*
+models
+utils_app/credentials.json
+utils_app/token.pickle
